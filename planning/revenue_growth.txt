@@ -1,0 +1,27 @@
+**WHAT**
+
+Revenue increased sharply between September and November in both 2010 and 2011, followed by a decline in December, suggesting a recurring seasonal pattern. In September, revenue grew by 29.98% in 2010 and 49.37% in 2011. However, after November, revenue declined sharply, with growth rates of -47.35% in 2010 and -70.33% in 2011.
+
+**WHY**
+
+Orders and sales volume declined after November. Between September and November, there was a significant increase in both sales volume and revenue. This increase was largely driven by the United Kingdom, which contributed 84.82% of total revenue. We also observed an increase in revenue and sales volume across all products during this peak period.
+
+However, I would request additional data to further investigate the underlying causes of the revenue spike during this period.
+
+**SO WHAT**
+
+The business appears highly dependent on the UK market and potentially experiences seasonal demand fluctuations. This creates both an opportunity to capitalize on peak sales periods and a risk of revenue concentration.
+
+Understanding these patterns is important for inventory planning, demand forecasting, and resource allocation.
+
+**THEN WHAT**
+
+Our first priority should be to investigate the factors responsible for the revenue increase between September and November, as well as the sharp decline in December. This is particularly important because understanding these patterns could help the business capitalize more effectively on peak sales periods.
+
+I suggest running more targeted campaigns and promotions during peak periods to evaluate customer responses and measure their impact on sales performance.
+
+Additionally, we should explore potential growth opportunities in Ireland, the Netherlands, Germany, and France. As we begin to observe growth in these markets, expanding our presence could help diversify revenue streams and reduce the risks associated with our heavy dependence on the UK market.
+
+The Netherlands is particularly interesting, as it recorded an average of 1,527.42 items per order across just 250 orders. This suggests potential opportunities for investment and expansion in the region, which should be investigated further.
+
+We also observed that Nigeria was the only country with negative net profit. This could indicate that returns or other costs exceeded the revenue generated in this market. Given that only three orders were recorded from Nigeria, we should investigate these transactions to understand the reasons behind the negative performance before drawing broader conclusions.
